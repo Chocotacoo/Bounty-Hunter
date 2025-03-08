@@ -1,1 +1,4 @@
+com\bountyhunter\constants\AuthConstants.class
+com\bountyhunter\dto\LoginRequest.class
 com\bountyhunter\BountyHunterApplication.class
+com\bountyhunter\controller\login\Login.class
